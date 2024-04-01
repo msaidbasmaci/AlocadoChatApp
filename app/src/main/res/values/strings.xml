@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alocado</string>
+    <string name="hos_geldiniz">Hoş Geldiniz!</string>
+    <string name="devam_etmek">Devam Etmek İçin Giriş Yapınız</string>
+    <string name="email">Email</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="yeni_hesap">Yeni Hesap</string>
+    <string name="foto_ekle">Fotoğraf Ekle</string>
+    <string name="ad">Ad</string>
+    <string name="sifre_onayla">Şifre Onayla</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="kullanici_sec">Kullanıcı Seçin</string>
+    <string name="mesaj_giriniz">Mesaj Giriniz</string>
+    <string name="cevrimici">Çevrimiçi</string>
+</resources>

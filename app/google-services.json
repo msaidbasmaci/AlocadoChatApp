@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719400014302",
+    "project_id": "chat-app-75a1b",
+    "storage_bucket": "chat-app-75a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719400014302:android:8139a46afb9404074c0d4f",
+        "android_client_info": {
+          "package_name": "com.example.alocadochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719400014302-cvfv9sad8nqgthd3u7acidqko14n63ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcqCweFdNuc_tDF7M3pwgMz8PTQtU_2Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719400014302-cvfv9sad8nqgthd3u7acidqko14n63ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
